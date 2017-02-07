@@ -1,6 +1,0 @@
-This pasteme project has been created by VG (vg@devys.org) with Cédric Picard
-(cedric.picard@efrei.net) as its main contributor.
-If you're reading this, you're seeing a fork of pasteme.
-Any changes to the original source code are available under the same license
-as the original.
-Forking changes author: Bruno Henc hencb @ protonmail.ch

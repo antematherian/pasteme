@@ -1,8 +1,0 @@
-#!/bin/bash
-tempfile="$(mktemp)"
-cat "${1:--}" > $tempfile
-curl -w '%{redirect_url}\n' --data-urlencode content@$tempfile \
-    http://paste.devys.org/
-rc=$?
-rm $tempfile
-exit $rc
