@@ -1,5 +1,5 @@
 html {
-    background-color: #232531
+    background-color: #012b42
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 #content {
     width:  650px;
     height: 600px;
-    border: 3px solid #C1C2C3;
+    border: 3px solid #322e28;
     padding: 5px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
